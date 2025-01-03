@@ -4,7 +4,7 @@
     margin: 15px;
     border: solid springgreen;
     border-radius: 8px;
-    background-image: url(zzz1.jpg);
+    background-image: src(zzz1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
